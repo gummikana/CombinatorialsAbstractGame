@@ -1,2 +1,2 @@
-# probabilities_abstractgame
-Just some probabilities for an abstract game I'm working on
+# combinatorials for an abstract game
+Just some combinatorials for an abstract game I'm working on
